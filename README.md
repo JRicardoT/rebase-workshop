@@ -42,3 +42,9 @@ Bibendum est ultricies integer quis auctor elit sed vulputate mi. Quis eleifend 
 TROUBLESHOOTING
 ---------------
 At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Aliquam vestibulum morbi blandit cursus risus at ultrices mi tempus. Phasellus vestibulum lorem sed risus.
+
+ADDITIONS
+---------------
+ These are some additions on branch 1.
+ This is the second line.
+ This is the third line.
